@@ -1,0 +1,83 @@
+html{
+    background-color: #336699;
+    align-content: center;
+}
+#calculator{
+    
+    
+    width: 500px;
+    font-weight: bold;
+    align-content:  center;
+    
+
+    
+}
+#calc{
+    font-size: 40px;
+    margin-left: 15px;
+    color: white;
+}
+#display{
+    text-align: right;
+    color: white;
+    font-size: 40px;
+    letter-spacing: 9px ;
+    font-weight: bold;
+    margin: 15px;
+    width: 460px;
+    height: 100px;
+    background-color: #19334d ;
+    border-radius: 10px;
+}
+
+.buttons{
+    color:#19334d;
+    margin: 15px;
+    width: 85px;
+    height: 50px;
+    border-radius: 10px;
+    font-size:20px ;
+    font-weight: bold;
+    box-shadow: 0px 0px 0px .2px black;
+    ;
+}
+#secondbox{
+    margin: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #19334d;
+
+}
+.cbuttons{
+    color: white;
+    margin: 15px;
+    width: 85px;
+    height: 50px;
+    border-radius: 10px;
+    font-size:large ;
+    font-weight: bold;
+    background-color: #336699;
+    
+}
+#lastbuttons1{
+    color: white;
+    width: 185px;
+    margin: 20px;
+    height: 50px;
+    font-size:large ;
+    border-radius:10px ;
+    background-color: #336699;
+    font-weight: bold;
+}
+#lastbuttons2{
+    color: white;
+    width: 185px;
+    margin: 20px;
+    height: 50px;
+    font-size:large ;
+    border-radius:10px ;
+    background-color: red;
+    font-weight: bold;
+}
